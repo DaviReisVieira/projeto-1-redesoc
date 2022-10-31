@@ -16,4 +16,10 @@
 
 Este projeto foi desenvolvido para a disciplina de Redes Sociais, ministrada pelo professor [Marcelo Hashimoto].
 
+## Site da disciplina
+
+<!-- HTML -->
+<a href="https://ensino.hashi.pro.br/redesoc/" target="_blank">
+  <img src="https://img.shields.io/badge/Redes%20Sociais-Insper-blue" alt="Redes Sociais - Insper">
+
 </div>
